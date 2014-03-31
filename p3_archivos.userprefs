@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="p3_archivos/Observador.cs">
+    <Files>
+      <File FileName="p3_archivos/Archivo.cs" Line="64" Column="16" />
+      <File FileName="p3_archivos/Observador.cs" Line="35" Column="7" />
+      <File FileName="p3_archivos/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/jona/Documentos/proyectos/p3_archivos/p3_archivos/Main.cs" line="16" />
+      <Breakpoint file="/home/jona/Documentos/proyectos/p3_archivos/p3_archivos/Observador.cs" line="31" />
+      <Breakpoint file="/home/jona/Documentos/proyectos/p3_archivos/p3_archivos/Observador.cs" line="36" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
